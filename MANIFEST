@@ -9,3 +9,5 @@ README.mkdn
 dist.ini
 lib/Catalyst/Plugin/MapComponentDependencies.pm
 t/basic.t
+t/config.t
+t/shorthand-config.t
