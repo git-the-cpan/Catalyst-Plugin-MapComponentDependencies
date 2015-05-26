@@ -8,6 +8,8 @@ README
 README.mkdn
 dist.ini
 lib/Catalyst/Plugin/MapComponentDependencies.pm
+lib/Catalyst/Plugin/MapComponentDependencies/Utils.pm
 t/basic.t
 t/config.t
 t/shorthand-config.t
+t/utils.t
