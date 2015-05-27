@@ -16,10 +16,9 @@ meta-spec:
 name: Catalyst-Plugin-MapComponentDependencies
 requires:
   Catalyst: '5.90090'
-  Data::Visitor: '0.30'
   Moose: '2.0602'
 resources:
   bugtracker: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies/issues
   homepage: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies
   repository: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies.git
-version: '0.007'
+version: '0.008'

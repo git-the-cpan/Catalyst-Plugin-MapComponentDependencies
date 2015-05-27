@@ -18,14 +18,13 @@ my %WriteMakefileArgs = (
   "NAME" => "Catalyst::Plugin::MapComponentDependencies",
   "PREREQ_PM" => {
     "Catalyst" => "5.90090",
-    "Data::Visitor" => "0.30",
     "Moose" => "2.0602"
   },
   "TEST_REQUIRES" => {
     "Catalyst::Test" => 0,
     "Test::Most" => 0
   },
-  "VERSION" => "0.007",
+  "VERSION" => "0.008",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -35,7 +34,6 @@ my %WriteMakefileArgs = (
 my %FallbackPrereqs = (
   "Catalyst" => "5.90090",
   "Catalyst::Test" => 0,
-  "Data::Visitor" => "0.30",
   "ExtUtils::MakeMaker" => 0,
   "Moose" => "2.0602",
   "Test::Most" => 0
