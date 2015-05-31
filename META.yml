@@ -21,4 +21,4 @@ resources:
   bugtracker: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies/issues
   homepage: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies
   repository: https://github.com/jjn1056/Catalyst-Plugin-MapComponentDependencies.git
-version: '0.008'
+version: '0.009'
